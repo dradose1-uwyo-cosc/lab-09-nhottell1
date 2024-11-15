@@ -1,12 +1,12 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Nolan Hottell]
+## [Assignment 9]
+## [11/14/24]
 ## Worked with/sources 
-* example
-* example
-* example
+* Bradley Ekstrom
+* Riley Green
+* Internet
 * example
 ## Project Quirks/ Things that don't work
-* example
+* Nothing
 * example
 * example
